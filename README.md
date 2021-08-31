@@ -7,7 +7,7 @@ Original paper URL: [https://ieeexplore.ieee.org/document/8278092](https://ieeex
 
 If you use this project, cite:
 
-    @inproceedings{DBLP:journals/corr/HughesS15,
+    @inproceedings{gabrielWVC2017,
         Author = Author={Vieira, Gabriel and 
                   Soares, Fabrizzio and 
                   Sousa, Naiane and 
