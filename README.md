@@ -20,7 +20,9 @@ If you use this project, cite:
         booktitle={Proceedings of XIII Workshop de Vis{\~a}o Computacional},
         year={2017}
     }
-    
+
+![alt tag](https://user-images.githubusercontent.com/63321757/131570382-8780f64e-7e8b-4aa8-bae2-0b1926499ad7.png)
+
 You can download the code by:
 
     git clone https://github.com/gabrieldgf4/stereo-matching.git
