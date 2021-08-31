@@ -3,7 +3,7 @@ Disparity Calculation Methods
 
 This project presents different methods for calculating disparity maps. It is related to the stereo field of view in which we can estimate depth information from a pair of images.
 
-Original paper URL: [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjXvoaLq9vyAhUjpZUCHW5oCwEQFnoECAUQAQ&url=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F8278092&usg=AOvVaw3Qpvo3jriuRvwMg8Br8J4z](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjXvoaLq9vyAhUjpZUCHW5oCwEQFnoECAUQAQ&url=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F8278092&usg=AOvVaw3Qpvo3jriuRvwMg8Br8J4z)
+Original paper URL: [https://ieeexplore.ieee.org/document/8278092](https://ieeexplore.ieee.org/document/8278092)
 
 If you use this project, cite:
 
