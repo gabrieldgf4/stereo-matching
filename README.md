@@ -1,7 +1,7 @@
 # stereo-matching
 Disparity Calculation Methods
 
-This project presents different methods for calculating disparity maps. It is related to the stereo field of view in which we can estimate depth information from a pair of images.
+This project presents different methods for calculating disparity maps. It is related to the research field of stereo vision in which we can estimate depth information from a pair of images.
 
 Original paper URL: [https://ieeexplore.ieee.org/document/8278092](https://ieeexplore.ieee.org/document/8278092)
 
